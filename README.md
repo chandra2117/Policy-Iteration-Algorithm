@@ -212,10 +212,12 @@ print_state_value_function(optimal_V, P, n_cols=4, prec=5)
 ```
 
 ## OUTPUT
-Optimal policy and state-value function
+#### Optimal policy and state-value function
+
 <img width="647" height="210" alt="image" src="https://github.com/user-attachments/assets/34435563-988d-4f73-b51c-dd4ae35b9196" />
 
-State-value function
+#### State-value function
+
 <img width="718" height="131" alt="image" src="https://github.com/user-attachments/assets/b5eb61c4-1f00-457e-81b2-6ba3429da3da" />
 
 ## RESULT
